@@ -21,7 +21,7 @@ setButtonColour(buttons[3], 113, 41, 247);
 setButtonColour(buttons[4], 247, 223, 16);
 
 function makeColourValue() {
-    return Math.round(Math.random() * 255); //generate random number
+    return Math.round(Math.random() * 255); //generates random number
 }
 
 
